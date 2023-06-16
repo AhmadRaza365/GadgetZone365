@@ -10,7 +10,7 @@ const siteMetadata = {
   siteRepo: 'https://github.com/AhmadRaza365/GadgetZone365',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
-  socialBanner: '/static/images/twitter-card.png',
+  socialBanner: '/static/images/twitter-card.jpg',
   email: 'ahmadraza365pro@gmail.com',
   github: 'https://github.com/AhmadRaza365',
   twitter: 'https://twitter.com/AhmadRaza365',
