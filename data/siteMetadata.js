@@ -1,13 +1,13 @@
 const siteMetadata = {
-  title: 'Today AI Tools',
+  title: 'GadgetZone365',
   author: 'Ahmad Raza',
-  headerTitle: 'Today AI Tools',
+  headerTitle: 'GadgetZone365',
   description:
-    'AI Tools Today is a blog website that provides information on the latest artificial intelligence tools. We cover a wide range of topics, from machine learning to natural language processing. Our goal is to help you learn about AI tools and how they can be used to improve your business or life.',
+    'Discover innovative desk gadgets and accessories for a stylish and productive workspace. Upgrade your desk setup with GadgetZone365!',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://todayaitools.com',
-  siteRepo: 'https://github.com/AhmadRaza365/TodayAiToolsBlog',
+  siteUrl: 'https://gadgetzone365.com',
+  siteRepo: 'https://github.com/AhmadRaza365/GadgetZone365',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
@@ -25,7 +25,7 @@ const siteMetadata = {
     plausibleDataDomain: '', // e.g. tailwind-nextjs-starter-blog.vercel.app
     simpleAnalytics: false, // true or false
     umamiWebsiteId: '', // e.g. 123e4567-e89b-12d3-a456-426614174000
-    googleAnalyticsId: 'G-R80NCX80WE', // e.g. UA-000000-2 or G-XXXXXXX
+    googleAnalyticsId: 'G-6Y8ND9R73M', // e.g. UA-000000-2 or G-XXXXXXX
     posthogAnalyticsId: '', // posthog.init e.g. phc_5yXvArzvRdqtZIsHkEm3Fkkhm3d0bEYUXCaFISzqPSQ
   },
   newsletter: {
